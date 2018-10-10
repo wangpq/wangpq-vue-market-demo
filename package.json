@@ -1,9 +1,9 @@
 {
-  "name": "wpq-vue-demo",
+  "name": "wangpq-vue-market-demo",
   "version": "1.0.0",
-  "description": "A Vue.js demo",
+  "description": "这是一个简单的vue示例，旨在搭建框架和初学者学习应用一些技术知识点",
   "author": "wangpq",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
